@@ -1,7 +1,7 @@
 <h1 align="center"> Hello ✋, nice to see you in here </h1>
 
 <hr>
-<h3 align="center"> <b> →Hi im Luandre11, a teen who wants to be good at coding someday← </b> </h3>
+<h3 align="center"> <b> →Hi im Luandre11, a teen who wants to learn code← </b> </h3>
 <hr>
 
  ### About me
