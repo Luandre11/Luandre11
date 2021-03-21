@@ -6,10 +6,10 @@
 
 <table align="right">
   <td>
-   <a rel="author" href="https://www.reddit.com/user/Luandre11/"> Reddit </a>
+   <a rel="author" href="https://www.reddit.com/user/Luandre11/">My Reddit </a>
  </td>
  <td>
-  <a rel="author" href="https://www.youtube.com/channel/UC-o20NCT7w7Kyc0tLDIw9Pg"> YouTube </a>
+  <a rel="author" href="https://www.youtube.com/channel/UC-o20NCT7w7Kyc0tLDIw9Pg">My YouTube </a>
  </td>
 </table>
 
