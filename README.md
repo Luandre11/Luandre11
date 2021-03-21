@@ -1,7 +1,7 @@
 <h1 align="center"> Hello <img src="https://github.com/Luandre11/Luandre11/blob/main/images/handHi-unscreen.gif" alt="Wavy Hand" width="30px">, nice to see you in here </h1>
 
 <hr>
-<h3 align="center"> <b> →Hi im Luandre11, a teen who wants to learn code← </b> </h3>
+<h3 align="center"> <b> →Hi im Luandre11, a teen who wants to learn← </b> </h3>
 <hr>
 
 <table align="right">
