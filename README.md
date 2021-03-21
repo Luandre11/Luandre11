@@ -4,6 +4,15 @@
 <h3 align="center"> <b> →Hi im Luandre11, a teen who wants to learn code← </b> </h3>
 <hr>
 
+<table align="right">
+  <td>
+   <a rel="author" href="https://www.reddit.com/user/Luandre11/"> Reddit </a>
+ </td>
+ <td>
+  <a rel="author" href="https://www.youtube.com/channel/UC-o20NCT7w7Kyc0tLDIw9Pg"> YouTube </a>
+ </td>
+</table>
+
  ### About me
 - 🙂Im currently in a relationship 
 - 🏳️‍🌈im homosexual
