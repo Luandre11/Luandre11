@@ -5,6 +5,7 @@
 <hr>
  
 🥰Im currently in a relationship 
+<br>
 🏳️‍🌈im homosexual
 
 
