@@ -5,9 +5,11 @@
 <hr>
 
  ### About me
--Im currently in a relationship 
--im homosexual
--I like videogames
+- 🙂Im currently in a relationship 
+- 🏳️‍🌈im homosexual
+- 🎮I like videogames
+- 🌱 currently learning JS, HTML and CSS
+- 😸 he/him pronouns
 
 
 <hr>
