@@ -6,4 +6,6 @@
  
 
 🥰Im currently in a relationship 
-
+<!--<h3 align="center>
+![image](https://github.com/Luandre11/Luandre11/blob/main/images/ending_jujutsu.jpeg)
+</h3>-->
