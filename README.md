@@ -15,7 +15,7 @@
 
  ### About me
 - 🙂Im currently in a relationship 
-- 🏳️‍🌈im homosexual
+- 🏳️‍🌈im gay
 - 🎮I like videogames
 - 🌱 currently learning JS, HTML and CSS
 - 😸 he/him pronouns
