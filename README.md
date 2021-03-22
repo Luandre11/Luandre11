@@ -21,11 +21,9 @@
 - 🌱 currently learning JS, HTML and CSS
 - 😸 he/him pronouns
 
-<br>
-<details align="top">
-  <summary> Most used languages </summary>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
-</detials>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
+
 
 <hr>
 <p align="center">
