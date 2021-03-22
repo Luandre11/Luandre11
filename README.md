@@ -22,9 +22,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&hide_border=true&bg_color=#0097a7">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
 
 <hr>
 <p align="center">
