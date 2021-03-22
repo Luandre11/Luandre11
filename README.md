@@ -20,8 +20,14 @@
 - 🌱 currently learning JS, HTML and CSS
 - 😸 he/him pronouns
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&hide_border=true&bg_color=#0097a7">
+</p>
 
 <hr>
 <p align="center">
    <img src="https://github.com/Luandre11/Luandre11/blob/main/images/ending_jujutsu.jpeg" alt="dumbImage">
 </p>
+ 
