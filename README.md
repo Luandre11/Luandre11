@@ -22,9 +22,10 @@
 - 😸 he/him pronouns
 
 <br>
-<p algin="right">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
-</p>
+<details align="top">
+  <summary> Most used languages </summary>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
+</detials>
 
 <hr>
 <p align="center">
