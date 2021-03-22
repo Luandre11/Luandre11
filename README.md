@@ -4,7 +4,7 @@
 <h3 align="center"> <b> →Hi im Luandre11, and i have no idea what im doing← </b> </h3>
 <hr>
 
-<table align="right">
+<table align="center">
   <td>
    <a rel="author" href="https://www.reddit.com/user/Luandre11/">My Reddit </a>
  </td>
@@ -12,6 +12,7 @@
   <a rel="author" href="https://www.youtube.com/channel/UC-o20NCT7w7Kyc0tLDIw9Pg">My YouTube </a>
  </td>
 </table>
+
 
  ### About me
 - 🙂Im currently in a relationship 
