@@ -2,6 +2,9 @@
 
 <hr>
 <h3 align="center"> <b> →Hi im Luandre11, and i have no idea what im doing← </b> </h3>
+
+![GitHub followers](https://img.shields.io/github/followers/Luandre11?style=social)
+
 <hr>
 
 <table align="center">
