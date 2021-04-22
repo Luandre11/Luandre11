@@ -29,8 +29,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
 
 
-<hr>
-<p align="center">
-   <img src="https://github.com/Luandre11/Luandre11/blob/main/images/ending_jujutsu.jpeg" alt="dumbImage">
-</p>
- 
+
