@@ -22,7 +22,7 @@
 - 🙂Im currently in a relationship 
 - 🏳️‍🌈im gay
 - 🎮I like videogames
-- 🌱 currently learning JS, HTML and CSS
+- 🌱 Always learning 
 - 😸 he/him pronouns
 
 
