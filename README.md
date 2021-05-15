@@ -20,7 +20,6 @@
 
  ### About me
 - 🙂Im currently in a relationship 
-- 🏳️‍🌈im gay
 - 🎮I like videogames
 - 🌱 Always learning 
 - 😸 he/him pronouns
