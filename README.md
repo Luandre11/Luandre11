@@ -23,7 +23,7 @@
 - 🎮I like videogames
 - 🌱 Always learning 
 - 😸 he/him pronouns
-- 7 + 3 = 10
+- 6 + 4 = 10
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
