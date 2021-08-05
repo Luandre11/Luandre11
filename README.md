@@ -19,7 +19,7 @@
 
 
  ### About me
-- 🎮I like videogames
+- 🧊 ice 
 - 🌱 Always learning 
 - 😸 he/him pronouns
 - 6 + 4 = 10
