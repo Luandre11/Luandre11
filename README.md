@@ -22,7 +22,7 @@
 - 🧊 ice 
 - 🌱 Always learning 
 - 😸 he/him pronouns
-- 6 + 4 = 10
+- Pizza cat 🍕😺
 
 
 
