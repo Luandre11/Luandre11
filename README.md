@@ -21,7 +21,6 @@
  ### About me
 - 🧊 ice 
 - 🌱 Always learning 
-- 😸 he/him pronouns
 - Pizza cat 🍕😺
 
 
