@@ -23,7 +23,7 @@
 - 🌱 Always learning 
 - 😸 he/him pronouns
 - 6 + 4 = 10
-- I just found love once again ❤
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
