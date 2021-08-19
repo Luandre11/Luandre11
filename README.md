@@ -13,7 +13,7 @@
    <a rel="author" href="https://www.reddit.com/user/Luandre11/">My Reddit </a>
  </td>
  <td>
-  <a rel="author" href="https://www.youtube.com/channel/UC-o20NCT7w7Kyc0tLDIw9Pg">My YouTube </a>
+  <a rel="author" href="https://www.youtube.com/channel/UCPvficUmPjyKRkgfDUrKCMw/featured">My YouTube </a>
  </td>
 </table>
 
