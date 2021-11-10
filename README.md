@@ -22,7 +22,7 @@
 - 🧊 ice 
 - 🌱 Always learning 
 - Pizza cat 🍕😺
-
+- 🏳️‍🌈 gay 
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&theme=radical" alt="My top languages">
