@@ -17,7 +17,7 @@ I'm gay and passionate about Python programming. Here's a little bit about me:
 <!-- Language Usage -->
 ## Languages I Use the Most
 
-[![Top Languages](https://img.shields.io/github/languages/top/Luandre11/your-repo-name)](https://github.com/Luandre11/your-repo-name)
+[![Top Languages](https://img.shields.io/github/languages/top/Luandre11/Luandre11)](https://github.com/Luandre11/your-repo-name)
 
 <!-- Replace "Luandre11/Luandre11" with your actual GitHub username and repository name -->
 
