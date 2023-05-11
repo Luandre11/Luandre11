@@ -14,13 +14,6 @@ I'm gay and passionate about Python programming. Here's a little bit about me:
 - 🌍 Location: Insert your location here.
 - 📫 How to reach me: [Insert your preferred contact method here, e.g., email, Twitter, 
 
-<!-- Language Usage -->
-## Languages I Use the Most
-
-[![Top Languages](https://img.shields.io/github/languages/top/Luandre11/Cutie)](https://github.com/Luandre11/Cutie)
-
-<!-- Replace "Luandre11/Luandre11" with your actual GitHub username and repository name -->
-
 
 
 <!-- Additional Sections -->
