@@ -12,7 +12,16 @@ I'm gay and passionate about Python programming. Here's a little bit about me:
 - 💻 Experience: Python developer with expertise in X, Y, Z.
 - 🌈 LGBTQ+ advocate and proud member of the community.
 - 🌍 Location: Insert your location here.
-- 📫 How to reach me: [Insert your preferred contact method here, e.g., email, Twitter, etc.]
+- 📫 How to reach me: [Insert your preferred contact method here, e.g., email, Twitter, 
+
+<!-- Language Usage -->
+## Languages I Use the Most
+
+[![Top Languages](https://img.shields.io/github/languages/top/Luandre11/your-repo-name)](https://github.com/Luandre11/your-repo-name)
+
+<!-- Replace "Luandre11/your-repo-name" with your actual GitHub username and repository name -->
+
+
 
 <!-- Additional Sections -->
 <!-- Add more sections to your README as needed, such as projects, skills, education, etc. -->
