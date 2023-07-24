@@ -9,8 +9,7 @@
 I'm gay and passionate about Python programming. Here's a little bit about me:
 
 - 🌟 Pronouns: He/Him
-- 💻 Experience: Python developer with expertise in X, Y, Z.
-- 🌈 LGBTQ+ advocate and proud member of the community.
+- 💻 Experience: Python, JavaScript,SQL,Transact-SQL, SSRS, Power BI.
 - 🌍 Location: Insert your location here.
 - 📫 How to reach me: [Insert your preferred contact method here, e.g., email, Twitter, 
 
