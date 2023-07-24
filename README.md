@@ -2,7 +2,7 @@
 <!-- Introduction -->
 ## Hello, I'm Luandre11! 
 
-I'm gay and passionate about Python programming. Here's a little bit about me:
+I'm and passionate about Python programming. Here's a little bit about me:
 
 - 🌟 Pronouns: He/Him
 - 💻 Experience: Python, JavaScript,SQL,Transact-SQL, SSRS, Power BI.
