@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&layout=donut-vertical" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&layout=donut-vertical&theme=dracula" alt="Top Langs">
   </a>
 </p>
 
