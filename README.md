@@ -1,13 +1,13 @@
 <h1 align="center"> Hello <img src="https://github.com/Luandre11/Luandre11/blob/main/images/handHi-unscreen.gif" alt="Wavy Hand" width="30px">, nice to see you in here </h1>
-<h1 align="center"> Hi <img src="https://github.com/Luandre11/Luandre11/blob/main/images/handHi-unscreen.gif" alt="Wavy Hand" width="30px"></h1>
-
-<hr>
-<h3 align="center"> <b> →Hi im Luandre11, and I have no idea what im doing← </b> </h3>
-<h3 align="center"> <b> Honey pie </b> </h3>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&hide_progress=true)
+<h3 align="center"> </h3>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&layout=donut-vertical" alt="Top Langs">
+  </a>
+</p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Luandre11?style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Luandre11.Luandre11) 
