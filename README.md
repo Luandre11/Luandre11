@@ -1,4 +1,4 @@
-<h1 align="center"> Hello <img src="https://github.com/Luandre11/Luandre11/blob/main/images/handHi-unscreen.gif" alt="Wavy Hand" width="30px">, nice to see you in here </h1>
+<h1 align="center"> Hello <img src="https://github.com/Luandre11/Luandre11/blob/main/images/handHi-unscreen.gif" alt="Wavy Hand" width="30px">, Welcome to my github page</h1>
 
 
 <h3 align="center"> </h3>
