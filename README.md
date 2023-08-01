@@ -7,7 +7,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Luandre11?style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Luandre11.Luandre11) 
-@@ -10,10 +10,10 @@
 
 <table align="center">
   <td>
