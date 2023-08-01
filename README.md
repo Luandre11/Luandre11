@@ -12,15 +12,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/Luandre11?style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Luandre11.Luandre11) 
 
-<table align="center">
-  <td>
-   <a rel="author" href="https://www.reddit.com/user/Luandre11/">My Reddit </a>
-   <a rel="author" href="https://www.reddit.com/user/Luandre11/">No reddit </a>
- </td>
- <td>
-  <a rel="author" href="https://www.youtube.com/channel/UCPvficUmPjyKRkgfDUrKCMw/featured">My YouTube </a>
-  <a rel="author" href="https://www.youtube.com/channel/UCPvficUmPjyKRkgfDUrKCMw/featured">No YouTube </a>
- </td>
-</table>
 
 
