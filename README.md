@@ -8,3 +8,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/Luandre11?style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Luandre11.Luandre11) 
 
+<img src="https://th.bing.com/th/id/OIP.bzBzdWu_awOQVoWbHdtQdQHaDo?rs=1&pid=ImgDetMain">
