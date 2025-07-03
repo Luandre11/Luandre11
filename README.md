@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center"><em>
-  Full-stack dev • Computer Engineering student in Canada • Bass player • Neon enthusiast
+   • Computer Engineering student • Bass enthusiast 
 </em></p>
 
 <!-- ===========================  SOCIAL / BADGES  ========================= -->
