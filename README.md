@@ -25,14 +25,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Luandre11.readme&style=for-the-badge&color=ff2ec6">
 </p>
 
-<!-- ===============================  LEETCODE  ============================ -->
-<p align="center">
-  <a href="https://leetcode.com/u/lucianolomelin/">
-    <img src="https://leetcard.jacoblin.cool/lucianolomelin?theme=dark&ext=activity&ext=heatmap"
-         alt="LeetCode Stats">
-  </a>
-</p>
-
 <!-- ===============================  ABOUT ME  ============================ -->
 <h2 align="center">🌌&nbsp; About Me&nbsp;🌌</h2>
 
