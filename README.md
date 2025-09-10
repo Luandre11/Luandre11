@@ -40,12 +40,11 @@
 <h2 align="center">🔧&nbsp; Tech I Groove With&nbsp;🔧</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark"/>
-  <img src="https://img.shields.io/badge/n8n-FE6E00?style=for-the-badge&logo=n8n&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/Power&nbsp;Platform-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,java&theme=dark"/>
+  <img src="https://img.shields.io/badge/n8n-FE6E00?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Power&nbsp;Platform-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white">
 </p>
-
 <!-- ================================  STATS  ============================= -->
 <h2 align="center">📊&nbsp; GitHub Stats&nbsp;📊</h2>
 
