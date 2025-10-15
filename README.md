@@ -53,7 +53,6 @@
        height="175"/>
   <img src="https://streak-stats.demolab.com/?user=Luandre11&theme=algolia&hide_border=true&sideLabels=ff2ec6&sideNums=ff2ec6&dates=ff2ec6"
        height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luandre11&layout=compact&theme=synthwave&hide_border=true&title_color=ff2ec6"
-       height="175"/>
+
 </div>
 
