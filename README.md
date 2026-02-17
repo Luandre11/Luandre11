@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center"><em>
-   • Computer Engineering student • Bass enthusiast 
+   • Software Engineering student • Bass enthusiast 
 </em></p>
 
 <!-- ===========================  SOCIAL / BADGES  ========================= -->
