@@ -37,11 +37,5 @@
   <img src="https://img.shields.io/badge/n8n-FE6E00?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
-<!-- ================================  STATS  ============================= -->
-<h2 align="center">📊&nbsp; GitHub Stats&nbsp;📊</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luandre11&show_icons=true&theme=synthwave&hide_border=true&icon_color=ff2ec6&title_color=ff2ec6"
-       height="175"/>
-  <img src="https://streak-stats.demolab.com/?user=Luandre11&theme=algolia&hide_border=true&sideLabels=ff2ec6&sideNums=ff2ec6&dates=ff2ec6"
-       height="175"/>
+
 </div>
