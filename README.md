@@ -33,7 +33,7 @@
 <!-- ===================  LANGUAGES / TOOLS / PLATFORMS  =================== -->
 <h2 align="center">🔧&nbsp; Tech I Groove With&nbsp;🔧</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,java,js,c&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,c&theme=dark"/>
   <img src="https://img.shields.io/badge/n8n-FE6E00?style=for-the-badge&logo=n8n&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
